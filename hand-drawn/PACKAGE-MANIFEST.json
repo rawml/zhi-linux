@@ -1,0 +1,89 @@
+{
+  "format_version": 1,
+  "files": {
+    "AGENTS.md": {
+      "bytes": 2772,
+      "sha256": "ee273c66d2363687603a2a8b6a6b54d6cdf6a30e9afeb4fd437eb45ff767bd54"
+    },
+    "INSTALL.md": {
+      "bytes": 2866,
+      "sha256": "fce880545e901a9d7dfd203cbd8213eaf392e09bd9e4f87be65ce307201a269b"
+    },
+    "LICENSE": {
+      "bytes": 1063,
+      "sha256": "1315a1123cedfccc762cfbf2685be6abf61b56714866928d9eb7ab6e52a505ca"
+    },
+    "PROTOCOL.md": {
+      "bytes": 20627,
+      "sha256": "a44c4238e82f0a3c3078345c449a1067bfa18c74ee311736b205095d5ed4f8c1"
+    },
+    "SKILL.md": {
+      "bytes": 2782,
+      "sha256": "882f9455c5acd05d692fa73331ea16b8c1d9afc1e470e3f6592ce7d73bf36308"
+    },
+    "STYLES.md": {
+      "bytes": 77758,
+      "sha256": "3bd64ef5a8fc5a3f93db2589c1f68db764eb2356335a52021fa5c09827fdd165"
+    },
+    "assets/style-19/anchor-roundhead-redline.png": {
+      "bytes": 1572238,
+      "sha256": "a804cff3553665df666c072c9b1d6118a48ffef537f98155e2d48173e90c985d"
+    },
+    "assets/style-19/anchor-roundhead-redline.png.privacy.json": {
+      "bytes": 819,
+      "sha256": "6501db417dbdf32c2c2a7ebecca3447ad84ba77e68f608d5a7c9156123b39d7a"
+    },
+    "assets/style-19/anchor-roundhead-redline.png.provenance.json": {
+      "bytes": 528,
+      "sha256": "574e63d3d19f1b4be306455e4369234fb59ac3f441dde5406a0041a332e5a8c2"
+    },
+    "assets/style-20/anchor-warm-yellow-ink-story-v3.png": {
+      "bytes": 1720913,
+      "sha256": "29602439c2ca2f2aa847f6449eab824c90832e8790b543451fe0cbab914cde32"
+    },
+    "assets/style-20/anchor-warm-yellow-ink-story-v3.png.privacy.json": {
+      "bytes": 831,
+      "sha256": "32251b7eeb82145d7f7f7f0497e74f654958660040c0478e7d632de2e860131b"
+    },
+    "assets/style-20/anchor-warm-yellow-ink-story-v3.png.provenance.json": {
+      "bytes": 544,
+      "sha256": "db261a74dc9a08f8a21f24d04bcd40f3419206d84a70df6948d2c462e45eb7f7"
+    },
+    "assets/style-3.1/anchor-family.png": {
+      "bytes": 1814203,
+      "sha256": "d1eb06abd3e81115483b6d6227746ad1811f6c2bc8e0670f573fd4d6f9eaafc3"
+    },
+    "assets/style-3.1/anchor-family.png.privacy.json": {
+      "bytes": 432,
+      "sha256": "da060426c252d267f8f096840e18e7ff7e559ac9a1984d628a33c34b1879001f"
+    },
+    "assets/style-3.1/anchor-family.png.provenance.json": {
+      "bytes": 737,
+      "sha256": "f2841050efba0a51bb8a99beccc1da2afce5da7dd0d3f77bc100a1fe5231dad8"
+    },
+    "examples/13-paper-folk-musician.png": {
+      "bytes": 2656370,
+      "sha256": "4f8b3aeed14c02c4ac6c55b3e0b9d8e0cbd5dc330ea91f8736a3961b45f66199"
+    },
+    "examples/13-paper-folk.png": {
+      "bytes": 2426454,
+      "sha256": "4fee20799a3fbe8d07309b540d53f08b0e9517d0f8ffc75011c6dc4c842ec4d1"
+    },
+    "scripts/check_skill.py": {
+      "bytes": 12526,
+      "sha256": "b85740fb8117c9e2b0839f3e21f4cb9c6743b3711ad2429a1235185557d02d81"
+    },
+    "scripts/generate_monologue_card_with_codex.sh": {
+      "bytes": 5067,
+      "sha256": "a38d96fb7dffbcd92abd7b98af39962da45a2a6dc35259a22c6b4a5995a8988d"
+    },
+    "scripts/render_prompt.py": {
+      "bytes": 50238,
+      "sha256": "b1be0556769e08dd9e6bbbb527890d814696ed7b53b86175f271dd17a83db258"
+    },
+    "scripts/validate_style_20_asset.py": {
+      "bytes": 9188,
+      "sha256": "daf7c6f36a05a1766f52bb37e90fdc50ab890f816aab37789214fd3b503eea30"
+    }
+  }
+}
